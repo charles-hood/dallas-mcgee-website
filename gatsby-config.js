@@ -8,8 +8,8 @@ module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
     title: "Dallas McGee",
-    description: "",
-    siteUrl: "http://dalls-mcgee.netlify.com"
+    description: "Dallas McGee",
+    siteUrl: "http://dallas-mcgee.netlify.com"
   },
   plugins: [
     // Add gatsby-theme-musician to your site
@@ -21,15 +21,15 @@ module.exports = {
         // These are default values that you can override
         // basePath: `/`,
         // content: `content`,
-        // pwaName: 'Dallas McGee'
+        pwaName: 'Dallas McGee'
       }
-    },
-     // Add gatsby-plugin-mailchimp
+   },
+    // Add gatsby-plugin-mailchimp
     {
       resolve: 'gatsby-plugin-mailchimp',
       options: {
         // Find the POST URL for signing up to your list with an embedded form
-        endpoint: 'https://thomashindsmedia.us4.list-manage.com/subscribe/post?u=3104bf792d5c0d275a2c015e8&amp;id=9a82b9d3e2',
+        endpoint: 'https://cosmiccowboymedia.us4.list-manage.com/subscribe/post?u=69e27a61fe1116ab8b7ba1669&amp;id=4edf744fb7',
       },
     },
      // Add gatsby-plugin-favicon
@@ -40,6 +40,7 @@ module.exports = {
 
         // WebApp Manifest Configuration
         appName: 'Dallas McGee' // Inferred with your package.json
+      }
     },
   ]
 };
