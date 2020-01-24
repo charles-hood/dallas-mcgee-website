@@ -34,7 +34,12 @@ module.exports = {
     },
      // Add gatsby-plugin-favicon
     {
-    resolve: 'gatsby-plugin-favicon',
+      resolve: 'gatsby-plugin-favicon',
+      options: {
+        logo: "./src/favicon.png",
+
+        // WebApp Manifest Configuration
+        appName: 'Dallas McGee' // Inferred with your package.json
     },
   ]
 };
