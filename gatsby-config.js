@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     title: "Dallas McGee",
     description: "",
-    siteUrl: "https://thomashindsmedia.com"
+    siteUrl: "http://dalls-mcgee.netlify.com"
   },
   plugins: [
     // Add gatsby-theme-musician to your site
@@ -21,7 +21,7 @@ module.exports = {
         // These are default values that you can override
         // basePath: `/`,
         // content: `content`,
-        // pwaName: null
+        // pwaName: 'Dallas McGee'
       }
     },
      // Add gatsby-plugin-mailchimp
