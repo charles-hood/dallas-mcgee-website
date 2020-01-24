@@ -7,7 +7,7 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Thomas Hinds Media",
+    title: "Dallas McGee",
     description: "",
     siteUrl: "https://thomashindsmedia.com"
   },
