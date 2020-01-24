@@ -1,0 +1,29 @@
+- title: Resurrection Road
+  date: 2019-02-01
+  release_type: Album
+  image: "./images/resurrection-road.JPG"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/2OBchwSSiprcdwBc9sY6XW
+    - name: Apple Music
+      url: https://music.apple.com/us/album/resurrection-road/1451874916
+
+- title: Ghosts and Lamentations
+  date: 2015-06-03
+  release_type: Album
+  image: "./images/ghosts.jpg"
+  links:
+    - name: Spotify
+      url: https://music.apple.com/us/album/resurrection-road/1451874916
+    - name: Apple Music
+      url: https://music.apple.com/us/album/ghosts-and-lamentations/1004862629
+
+- title: Barbwire Bouquet
+  date: 2017-12-35
+  release_type: Album
+  image: "./images/bouquet.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/0fI8k8MNrYEndRz1F7xF90
+    - name: Apple Music
+      url: https://music.apple.com/us/album/barbwire-bouquet-ep/1325938378

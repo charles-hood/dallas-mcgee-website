@@ -1,0 +1,24 @@
+artist:
+  name: Thomas Hinds Media
+  tagline: Solo acoustic artist
+  # seo_title:
+  # seo_description:
+  # contact_twitter_username:
+  # contact_phone: 
+  # contact_email: 
+
+social:
+  - name: Facebook
+    url: https://www.facebook.com/hindsthomas/
+  - name: Instagram
+    url: https://instagram.com/hindsight_musings
+  - name: Patreon
+    url: https://www.patreon.com/thomashindsmusic
+  - name: Youtube
+    url: https://www.youtube.com/user/Tbone77777
+  - name: Apple
+    url: https://music.apple.com/us/artist/thomas-hinds/1004862632
+  - name: Spotify
+    url: https://open.spotify.com/artist/7wOxMZgaCVFRwfRT9tvqDH
+
+site_language: en
