@@ -1,9 +1,7 @@
 navigation:
-  - text: Releases
-    url: "#releases"
   - text: Shows
     url: "#shows"
   - text: Contact
     url: "#contact"
-  - text: Merch
-    url: https://www.storefrontier.com/thomashindsmedia
+  - text: Guitars
+    url: https://www.smoothstoneguitars.com/
