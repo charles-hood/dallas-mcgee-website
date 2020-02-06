@@ -3,5 +3,7 @@ navigation:
     url: "#shows"
   - text: Contact
     url: "#contact"
+  - text: Merch
+    url: https://www.storefrontier.com/dallasmcgee
   - text: Guitars
     url: https://www.smoothstoneguitars.com/
