@@ -3,11 +3,6 @@
 #  location: 
 #  info_url:  
   
-- name: Dallas McGee at Giggitys Sports Bar in Rome
-  date: 2020-02-07
-  location: Giggity's sports bar and grill, 227 Broad Street, Rome, Georgia 30161
-  info_url: https://www.facebook.com/events/765778767165596/
-  
 - name: Dallas McGee at Chipper's Club in Roswell
   date: 2020-02-08
   location: Chipper's Club, 659 Atlanta Street, Roswell, Georgia
@@ -32,4 +27,14 @@
   date: 2020-04-04
   location: Arbor Place, 6700 Douglas BLVD, Douglasville, Georgia 30135
   info_url: https://www.facebook.com/events/203725734355873/
+
+- name: Dallas McGee at Pine Mountain Cowboy Festival
+  date: 2020-04-18
+  location: Pine Mountain Gold Museum, 1881 Stockmar Rd, Villa Rica, GA 30180-3459
+  info_url: https://www.facebook.com/events/3101855550040607/
+
+- name: Dallas McGee at Cobb Tasting Festival at Cobb Co Fairgrounds
+  date: 2020-04-19
+  location: Jim R. Miller Park, 2245 Callaway Rd SW Ste A, Marietta, Georgia 30008
+  info_url: https://www.facebook.com/events/516521802339867/
   
