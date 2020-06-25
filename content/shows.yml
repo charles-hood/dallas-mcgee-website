@@ -1,29 +1,40 @@
-- name: Dallas McGee at Johnny's Bar in Tallapposa
-  date: "2020-06-27 15:00:00-07:00"
+#- name: 
+#  date: 
+#  location: 
+#  info_url:  
+ 
+- name: Dallas McGee at Johnny's Bar in Tallapposa, 6pm
+  date: "2020-06-27"
   location: Johnny's BAR, 10 W Alabama St, Tallapoosa, Georgia 30176
-  info_url: https://www.facebook.com/events/1335648499976883
+  info_url: https://www.facebook.com/events/1335648499976883/
 
-- name: Dallas McGee at Madlife Stage & Studio in Woodstock
-  date: "2020-06-28 08:00:00-07:00"
+- name: Dallas McGee at Madlife Stage & Studio in Woodstock, 11am - 2:30pm
+  date: "2020-06-28"
   location: MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
-  info_url: https://www.facebook.com/events/875888302939852
+  info_url: https://www.facebook.com/events/875888302939852/
 
-- name: Dallas McGee at Williamson Brothers BBQ in Douglasville
-  date: "2020-07-03 15:00:00-07:00"
-  location: Williamson Bros Douglasville, 7040 Concourse Pkwy, Douglasville, Douglasville, Georgia 30134
-  info_url: https://www.facebook.com/events/1351087275077240
+- name: Dallas McGee at Williamson Brothers BBQ in Douglasville, 6pm - 8pm
+  date: "2020-07-03"
+  location: Williamson Bros Douglasville, 7040 Concourse Pkwy, Douglasville, Georgia 30134
+  info_url: https://www.facebook.com/events/1351087275077240/
 
-- name: Dallas McGee at Madlife Stage & Studio in Woodstock
-  date: "2020-07-05 08:00:00-07:00"
+- name: Dallas McGee at Madlife Stage & Studio in Woodstock, 11am - 2:30pm
+  date: "2020-07-05"
   location: MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
-  info_url: https://www.facebook.com/events/560158141329458
+  info_url: https://www.facebook.com/events/560158141329458/
 
-- name: Dallas McGee Pre Show before Exile at Mill Town Music Hall
-  date: "2020-07-10 15:15:00-07:00"
+- name: Dallas McGee Pre Show before Exile at Mill Town Music Hall, 6:15pm - 7pm
+  date: "2020-07-10"
   location: Mill Town Music Hall, 1031 Alabama Ave, Bremen, Georgia 30110
-  info_url: https://www.facebook.com/events/301245081279723
+  info_url: https://www.facebook.com/events/301245081279723/
 
-- name: Dallas McGee at The Dunwoody Farmers Market
-  date: "2020-07-11 06:00:00-07:00"
+- name: Dallas McGee at The Dunwoody Farmers Market, 9am-12pm
+  date: "2020-07-11"
   location: Dunwoody Farmers Market, 4770 N. Peachtree Road, Dunwoody, Georgia 30338
-  info_url: https://www.facebook.com/events/558844994981269
+  info_url: https://www.facebook.com/events/558844994981269/
+
+- name: Dallas McGee preshow before Shenadoah at Mill Town Music Hall
+  date: "2020-08-15"
+  location: Mill Town Music Hall, 1031 Alabama Ave, Bremen, Georgia 30110
+  info_url: https://www.facebook.com/events/3056937534324461/
+ 
