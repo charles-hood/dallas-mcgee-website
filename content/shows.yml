@@ -1,27 +1,22 @@
-#- name: 
-#  date: 
-#  location: 
-#  info_url:  
- 
-- name: Dallas McGee at Williamson Brothers BBQ in Douglasville, 6pm - 8pm
+- name: Dallas McGee at Williamson Brothers BBQ in Douglasville
   date: "2020-07-03"
-  location: Williamson Bros Douglasville, 7040 Concourse Pkwy, Douglasville, Georgia 30134
-  info_url: https://www.facebook.com/events/1351087275077240/
+  location: Williamson Bros Douglasville, 7040 Concourse Pkwy, Douglasville, Douglasville, Georgia 30134
+  info_url: https://www.facebook.com/events/1351087275077240
 
-- name: Dallas McGee at Madlife Stage & Studio in Woodstock, 11am - 2:30pm
+- name: Dallas McGee at Madlife Stage & Studio in Woodstock
   date: "2020-07-05"
   location: MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
-  info_url: https://www.facebook.com/events/560158141329458/
+  info_url: https://www.facebook.com/events/560158141329458
 
 - name: Dallas McGee at Williamson Brothers BBQ in Douglasville
-  date: "2020-07-10 15:00:00-07:00"
+  date: "2020-07-10"
   location: Mill Town Music Hall, 1031 Alabama Ave, Bremen, Georgia 30110
   info_url: https://www.facebook.com/events/301245081279723
 
-- name: Dallas McGee at The Dunwoody Farmers Market, 9am-12pm
+- name: Dallas McGee at The Dunwoody Farmers Market
   date: "2020-07-11"
   location: Dunwoody Farmers Market, 4770 N. Peachtree Road, Dunwoody, Georgia 30338
-  info_url: https://www.facebook.com/events/558844994981269/
+  info_url: https://www.facebook.com/events/558844994981269
 
 - name: Dallas McGree w/ Greg Shaddrix at MadLife Stage in Woodstock
   date: "2020-07-12"
@@ -31,5 +26,35 @@
 - name: Dallas McGee preshow before Shenadoah at Mill Town Music Hall
   date: "2020-08-15"
   location: Mill Town Music Hall, 1031 Alabama Ave, Bremen, Georgia 30110
-  info_url: https://www.facebook.com/events/3056937534324461/
- 
+  info_url: https://www.facebook.com/events/3056937534324461
+
+- name: Dallas McGee host Open Mic Night at Suttons in Carrollton
+  date: "2020-09-09"
+  location: Sutton's American Grill, 477 Rome St, Carrollton, Georgia 30117
+  info_url: https://www.facebook.com/events/1078737519194287
+
+- name: Dallas McGee at The Tallapoosa Dogwood Festival
+  date: "2020-10-03"
+  location: Tallapoosa Dogwood Festival, Tallapoosa, Georgia 30176
+  info_url: https://www.facebook.com/events/1221481508054687
+
+- name: Dallas McGee host Open Mic Night at Suttons in Carrollton
+  date: "2020-10-21"
+  location: Sutton's American Grill, 477 Rome St, Carrollton, Georgia 30117
+  info_url: https://www.facebook.com/events/1454166058089300
+
+- name: Dallas McGee preshow before Pam Tillis at Mill Town Music Hall
+  date: "2020-11-07"
+  location: Mill Town Music Hall, 1031 Alabama Ave, Bremen, Georgia 30110
+  info_url: https://www.facebook.com/events/519733015316738
+
+- name: Dallas McGee host Open Mic Night at Suttons in Carrollton
+  date: "2020-11-11"
+  location: Sutton's American Grill, 477 Rome St, Carrollton, Georgia 30117
+  info_url: https://www.facebook.com/events/3074882522608850
+
+- name: Dallas McGee host Open Mic Night at Suttons in Carrollton
+  date: "2020-12-16"
+  location: Sutton's American Grill, 477 Rome St, Carrollton, Georgia 30117
+  info_url: https://www.facebook.com/events/696833997777461
+
