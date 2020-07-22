@@ -1,8 +1,3 @@
-- name: Dallas McGee w/ Greg Shaddix at MadLife Stage in Woodstock
-  date: "2020-07-19"
-  location: MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
-  info_url: https://www.facebook.com/events/356211148698556
-
 - name: Dallas McGee at Williamson Brothers BBQ in Douglasville
   date: "2020-07-24"
   location: Williamson Bros BBQ Douglasville, 7040 Concourse Pkwy, Douglasville, Georgia 30134
@@ -18,6 +13,11 @@
   location: MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
   info_url: https://www.facebook.com/events/377304803256649
 
+- name: Dallas McGee w/ Greg Shaddix at MadLife Stage in Woodstock
+  date: "2020-08-02"
+  location: MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
+  info_url: https://www.facebook.com/events/306876520505593
+
 - name: Dallas McGee at Williamson Brothers BBQ in Douglasville
   date: "2020-08-07"
   location: Williamson Brothers Bar-B-Q, 1425 Roswell Rd, Marietta, Georgia 30062
@@ -27,6 +27,11 @@
   date: "2020-08-15"
   location: Mill Town Music Hall, 1031 Alabama Ave, Bremen, Georgia 30110
   info_url: https://www.facebook.com/events/3056937534324461
+
+- name: Dallas McGee at Williamson Brothers BBQ in Douglasville
+  date: "2020-08-21"
+  location: Williamson Bros BBQ Douglasville, 7040 Concourse Pkwy, Douglasville, Georgia 30134
+  info_url: https://www.facebook.com/events/3241126655943934
 
 - name: Dallas McGee host Open Mic Night at Suttons in Carrollton
   date: "2020-09-09"
