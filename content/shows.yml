@@ -1,9 +1,4 @@
 - name: Dallas McGee host Open Mic Night at Suttons in Carrollton
-  date: "2020-10-21"
-  location: Sutton's American Grill, 477 Rome St, Carrollton, GA 30117
-  info_url: https://www.facebook.com/events/1454166058089300
-
-- name: Dallas McGee host Open Mic Night at Suttons in Carrollton
   date: "2020-11-11"
   location: Sutton's American Grill, 477 Rome St, Carrollton, GA 30117
   info_url: https://www.facebook.com/events/3074882522608850
@@ -17,4 +12,5 @@
   date: "2020-12-16"
   location: Sutton's American Grill, 477 Rome St, Carrollton, GA 30117
   info_url: https://www.facebook.com/events/696833997777461
+
 
